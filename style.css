@@ -1,0 +1,167 @@
+.col-12{
+    height: 10vh;
+}
+
+.col-lg-8{
+    height: 5vh;
+    margin-left: 15em;
+    display: flex;
+    gap: 1px;
+}
+
+.col-4{
+    height: 5vh;
+    display: flex;
+    gap: 1px;
+    margin-top: 1em;
+}
+
+.col-1{
+    height: 5vh;
+}
+
+.col-3{
+    height: 5vh;
+}
+
+.instagram{
+    width: 4vw;
+    height: 4vh;
+    margin-left: -16px;
+}
+
+.img{
+    width: 1vw;
+    height: 3.5vh;
+    margin-left: 10px;
+}
+
+.img1{
+    width: 5vw;
+    height: 7vh;
+    margin-top: -10px;
+}
+
+.search{
+    width: 15vw;
+    height: 5vh;
+    border-radius: 5px;
+    border: none;
+}
+
+.col-6{
+    height: 5vh;
+}
+
+.col-2{
+    height: 5vh;
+}
+
+.col-md-6{
+    height: 121vh;
+    margin-left: 15em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.col-md-2{
+    height: 121vh;
+
+}
+
+.col-sm-12{
+    height: 59vh;
+    border: 1px black solid;
+}
+
+.col-sm-11{
+    height: 10vh;
+    margin-left: 0.7em;
+    display: flex;
+    border: 1px black solid;
+}
+
+.col-md-11{
+    height: 40vh;
+    margin-left: 0.7em;
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    border: 1px black solid;
+}
+
+.col-lg-11{
+    height: 25vh;
+    margin-left: 0.7em;
+    margin-top: 1em;
+    border: 1px black solid;
+}
+
+.col-lg-4{
+    height: 6vh;
+}
+
+.col-8{
+    height: 6vh;
+}
+
+.col-lg-6{
+    height: 6vh;
+}
+
+.col-md-12{
+    height: 6vh;
+    display: flex;
+}
+
+.col-lg-3{
+    height: 6vh;
+}
+
+.col-lg-9{
+    height: 6vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.img10{
+    width: 4vw;
+    height: 4vh;
+    margin-left: -3px;
+    margin-top: 3px;
+}
+
+.profile{
+    width: 2vw;
+    height: 4vh;
+    margin-left: 1.5em;
+    margin-top: 0.5em;
+    border-radius: 50px;
+}
+
+.profile1{
+    width: 2vw;
+    height: 4vh;
+    margin-left: 0.8em;
+    margin-top: 0.5em;
+    border-radius: 50px;
+}
+
+.p5{
+    color: blue;
+}
+
+.p10{
+    margin-top: -30px;
+    margin-left: 60px;
+}
+
+.p6{
+    margin-left: 1em;
+}
+
+.p7{
+    margin-left: 1em;
+    margin-top: -20px;
+}
